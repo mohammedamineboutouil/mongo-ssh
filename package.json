@@ -1,0 +1,29 @@
+{
+  "name": "mongo-ssh",
+  "version": "1.0.0",
+  "description": "Connect to mongodb database using ssh tunnel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssh",
+    "mongodb",
+    "mongodb",
+    "mongo-ssh"
+  ],
+  "author": "Mohammed Amine Boutouil",
+  "license": "MIT",
+  "dependencies": {
+    "ssh2": "^0.8.8",
+    "mongodb": "^3.5.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedamineboutouil/mongo-ssh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohammedamineboutouil/mongo-ssh/issues"
+  },
+  "homepage": "https://github.com/mohammedamineboutouil/mongo-ssh#readme"
+}
